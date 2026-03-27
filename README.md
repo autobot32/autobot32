@@ -13,7 +13,7 @@ Incoming <b>Software Engineering Intern @ Expedia Group (Summer 2026)</b>
 
 ## About Me
 
-I enjoy building reliable backend systems and experimenting across the stack.
+I enjoy building reliable systems and experimenting across the stack.
 
 Currently interested in:
 
