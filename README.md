@@ -26,36 +26,6 @@ Currently interested in:
 
 ---
 
-## 🚀 Some cool projects I've worked on recently
-
-### Email Job Tracker
-Full-stack application that extracts job application details directly from emails.
-
-Built with **Spring Boot, Java, PostgreSQL, React, Docker, Gmail API, and OpenAI API**.
-
----
-
-### FoodBank Connect
-Tool built to streamline client intake and application review workflows.
-
-Built with **React, TypeScript, Node.js, and Express**.
-
----
-
-### Education and the Impact of Money
-Data analysis project exploring relationships between income and education outcomes across U.S. states.
-
-Built using **Python, pandas, NumPy, Seaborn, and Matplotlib**.
-
----
-
-### DeLorean (DubHacks)
-Interactive 3D memory experience where users upload photos and hear narrated stories generated with AI.
-
-Built with **Three.js, Gemini API, ElevenLabs, and Node.js**.
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
